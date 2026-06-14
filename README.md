@@ -1,13 +1,13 @@
 # LeetTracker Chrome Extension
 
-Track your LeetCode progress directly in the browser and sync submissions to the [LeetTracker Web App](https://github.com/dmiska25/leet-tracker).
+Track your LeetCode progress directly in the browser and sync submissions to the [LeetTracker Web App](https://github.com/djmiska25/leet-tracker).
 
 ## Features
 
 - **Auto-sync LeetCode submissions** with intelligent backfill queue for large histories
 - **Track solve time** using passive problem visit logs and code snapshots
 - **Smart notifications** — welcome toast for new users, sync status updates, sign-in reminders
-- **Seamless integration** with the [LeetTracker web app](https://github.com/dmiska25/leet-tracker)
+- **Seamless integration** with the [LeetTracker web app](https://github.com/djmiska25/leet-tracker)
 
 ## How It Works
 
@@ -50,7 +50,7 @@ You are responsible for ensuring that any personal exports or usage of problem c
 
 ## Privacy Policy
 
-See the full privacy policy [here](https://dmiska25.github.io/leet-tracker-extension/privacy.html).
+See the full privacy policy [here](https://djmiska25.github.io/leet-tracker-extension/privacy.html).
 
 ## Contact
 
